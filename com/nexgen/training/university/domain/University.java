@@ -5,17 +5,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class University {
-    String universityName;
-    String dean;
+   private String universityName;
+    private String dean;
 
-    String register;
+    private String register;
 
-    List<Campus> campuses = new ArrayList<>();
+   private List<Campus> campuses = new ArrayList<>();
 
-    Address address;
-
-
-
+   private Address address;
 
 
     public String getUniversityName() {
@@ -23,17 +20,9 @@ public class University {
     }
 
 
-
-
-
-
     public void setUniversityName(String universityName) {
         this.universityName = universityName;
     }
-
-
-
-
 
 
     public String getDean() {
@@ -41,17 +30,9 @@ public class University {
     }
 
 
-
-
-
-
     public void setDean(String dean) {
         this.dean = dean;
     }
-
-
-
-
 
 
     public String getRegister() {
@@ -59,17 +40,9 @@ public class University {
     }
 
 
-
-
-
-
     public void setRegister(String register) {
         this.register = register;
     }
-
-
-
-
 
 
     public List<Campus> getCampuses() {
@@ -77,17 +50,9 @@ public class University {
     }
 
 
-
-
-
-
     public void setCampuses(List<Campus> campuses) {
         this.campuses = campuses;
     }
-
-
-
-
 
 
     public Address getAddress() {
@@ -95,17 +60,9 @@ public class University {
     }
 
 
-
-
-
-
     public void setAddress(Address address1) {
         this.address = address1;
     }
-
-
-
-
 
 
     @Override

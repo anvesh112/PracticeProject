@@ -4,10 +4,10 @@ import java.util.List;
 
 public class Department extends Campus {
 
-    String name;
+   private String name;
 
-    List<Faculty> faculty;
-    // List<Student> students;
+   private List<Faculty> faculty;
+   private List<Student> students;
 
     public String getName() {
         return name;
@@ -25,22 +25,21 @@ public class Department extends Campus {
         this.faculty = faculty;
     }
 
-    @Override
-    public String toString() {
-        return "Department [name=" + name + ", faculty=" + faculty + "]";
+    public List<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(List<Student> students) {
+        this.students = students;
     }
 
 
-
-
-
-//	    public List<Student> getStudents() {
-//	        return students;
-//	    }
-//
-//	    public void setStudents(List<Student> students) {
-//	        this.students = students;}
-
-
-
+    @Override
+    public String toString() {
+        return "Department{" +
+                "name='" + name + '\'' +
+                ", faculty=" + faculty +
+                ", students=" + students +
+                '}';
+    }
 }

@@ -1,0 +1,7 @@
+#  name gender dob id phoneNumber courseId,course housenumber, Street, appartmentnumber, zip, cit, state
+"kumar1", "Male", 8765, 121, 99123, 131, Cs,205, conodoguinet, 12, PA1, 17012,  Harrisburg1
+"kumar2", "Male", 8765, 121, 99123, 131, Cs,206, conodoguinet, 12, PA1, 17012,  Harrisburg2
+"kumar3", "Male", 8765, 121, 99123, 131,Cs, 207, conodoguinet, 12, PA1, 17012,  Harrisburg3
+"kumar4", "Male", 8765, 121, 99123, 132, Cs,208, conodoguinet, 12, PA1, 17012,  Harrisburg4
+"kumar5", "Male", 8765, 121, 99123, 132, Cs,209, conodoguinet, 12, PA1, 17012,  Harrisburg5
+"kumar6", "Male", 8765, 121, 99123, 132, Cs,210, conodoguinet, 12, PA1, 17012,  Harrisburg6

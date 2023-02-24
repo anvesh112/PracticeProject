@@ -1,0 +1,3 @@
+# CampusName,housenumber, Street, appartmentnumber, zip, cit, state
+campus1,122, "campus", 124, 22, "wes1", "reAW1"
+Campus2,123, "campus", 124, 22, "wes1", "reAW1"

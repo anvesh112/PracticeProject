@@ -1,0 +1,7 @@
+# course name gender dob id phoneNumber courseId,Qualification, housenumber, Street, appartmentnumber, zip, cit, state
+"rajesh1", "Male", 8765, 121, 99123, 131,Btech,  205, conodoguinet, 12, PA1, 17012,  Harrisburg1 maths,cs
+"rajesh2", "Male", 8765, 121, 99123, 131,Btech, 206, conodoguinet, 12, PA1, 17012,  Harrisburg2
+"rajesh3", "Male", 8765, 121, 99123, 131,Btech, 207, conodoguinet, 12, PA1, 17012,  Harrisburg3
+"rajesh4", "Male", 8765, 121, 99123, 131,Btech, 208, conodoguinet, 12, PA1, 17012,  Harrisburg4
+"rajesh5", "Male", 8765, 121, 99123, 131, Btech,209, conodoguinet, 12, PA1, 17012,  Harrisburg5
+"rajesh6", "Male", 8765, 121, 99123, 131,Btech, 210, conodoguinet, 12, PA1, 17012,  Harrisburg6
